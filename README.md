@@ -10,7 +10,7 @@
   <a href="https://github.com/HanGyuTak/django-study"><img src="https://img.shields.io/badge/Django-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 </p>
 
-<br>Tech Stack
+<br>
   🛠Tech Stack
   <br>
     <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white">
