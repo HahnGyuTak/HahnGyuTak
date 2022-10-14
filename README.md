@@ -12,12 +12,12 @@
 
 <br>
   🛠Tech Stack
-  <br>
+  <p>
     <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=DJango&logoColor=white"/>
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"/>
-  </br>
+  </p>
 </br>
 
 
