@@ -7,7 +7,6 @@
 <p>
   <a href="https://github.com/KARUT-2022/Kaggle"><img src="https://img.shields.io/badge/Karut-181717?style=for-the-badge&logo=GitHub&logoColor=white">
   <a href="https://github.com/RyuJungSoo/Face_Recognition_Elevator"><img src="https://img.shields.io/badge/Face_Elevator-181717?style=for-the-badge&logo=GitHub&logoColor=white">
-  <a href="https://github.com/HanGyuTak/django-study"><img src="https://img.shields.io/badge/Django-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 </p>
 
 <br>
@@ -15,7 +14,6 @@
   <p>
     <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=DJango&logoColor=white"/>
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"/>
   </p>
 </br>
