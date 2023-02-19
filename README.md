@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hahn%20Gyutak&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Wellcome%20my%20Git!&descAlignY=81&descAlign=62)
 
- <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl98hidxm01270gjt7f57rgfn/stats?cursusId=21&coalitionId=87" alt="ghahn's 42 stats" /></a>
 <img src="https://github-readme-stats.vercel.app/api?username=HanGyuTak&theme=dracula&show_icons=true" />
 
 <h3>Project</h3>
