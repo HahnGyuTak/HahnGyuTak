@@ -4,7 +4,7 @@
 
 <h3>Project</h3>
 <p>
-  <a href="https://github.com/KARUT-2022/Kaggle"><img src="https://img.shields.io/badge/Karut-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+  <a href="https://github.com/Hanium-MIRACLE/Lenfit"><img src="https://img.shields.io/badge/Lenfit-181717?style=for-the-badge&logo=GitHub&logoColor=white">
   <a href="https://github.com/RyuJungSoo/Face_Recognition_Elevator"><img src="https://img.shields.io/badge/Face_Elevator-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 </p>
 
