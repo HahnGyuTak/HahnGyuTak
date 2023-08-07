@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hahn%20Gyutak&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Wellcome%20my%20Git!&descAlignY=81&descAlign=62)
 
-<img src="https://github-readme-stats.vercel.app/api?username=HanGyuTak&theme=dracula&show_icons=true" />
-
 <h3>Project</h3>
 <p>
   <a href="https://github.com/Hanium-MIRACLE/Lenfit"><img src="https://img.shields.io/badge/Lenfit-181717?style=for-the-badge&logo=GitHub&logoColor=white">
