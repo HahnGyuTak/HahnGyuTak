@@ -19,7 +19,7 @@
 <br>
   Contact
   </br>
-    <a href="https://--/"><img src="https://img.shields.io/badge/Tech%20Blog-262626?style=flat-square&logo=D-Wave Systems&logoColor=white&link=https://ahnsugyeong.tistory.com"/></a>&nbsp
+    <a href="https://hahngyutak.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-262626?style=flat-square&logo=D-Wave Systems&logoColor=white&link=https://ahnsugyeong.tistory.com"/></a>&nbsp
     <a href="mailto:gue707@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahnsugyeong@gmail.com"/></a>
   </br>
  </br>
