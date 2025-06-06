@@ -31,6 +31,7 @@
 <ul>
   <li>🕰️ <a href="https://time-auction-client.onrender.com/">시간 경매 게임</a></li>
   <li>♞ <a href="https://hahn56789.github.io/knight_tour/">기사의 여행 퍼즐</a></li>
+  <li>♟️ <a href="https://play.google.com/store/apps/details?id=com.imtak.wall_baduk_app">벽바둑 어플</a></li>
 </ul>
 
 
