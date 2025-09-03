@@ -8,7 +8,7 @@
 
 ---
 
-### 🛠 Tech Stack
+<!-- ### 🛠 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
@@ -26,6 +26,7 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gue707)](https://solved.ac/gue707)
 
 ---
+-->
 
 ### 🔗 Toy Project
 <ul>
