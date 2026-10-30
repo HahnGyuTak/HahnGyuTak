@@ -103,7 +103,7 @@ Dart · Flutter · Firebase · Git
 <details>
 <summary>More product experience</summary>
 
-- **[WallBaduk](https://apps.apple.com/kr/app/wall%EB%B0%94%EB%91%91/id6747090524)** — Independently planned, designed, and built a Flutter/Firebase strategy game, releasing it on iOS and Android in three weeks. Implemented minimax search and real-time multiplayer; a self-play PPO agent is integrated in the beta version only. [Google Play](https://play.google.com/store/apps/details?id=com.imtak.wall_baduk_app)
+- **[WallBaduk](https://apps.apple.com/kr/app/wall%EB%B0%94%EB%91%91/id6747090524)** — Independently planned, designed, and built a Flutter/Firebase strategy game, releasing it on iOS and Android in three weeks. Built real-time multiplayer, then trained a 3,554-parameter policy–value network with imitation learning and PPO. Implemented Dart inference and combined the model with search for Expert/Sedol tiers, shipping the AI update on both stores. [Google Play](https://play.google.com/store/apps/details?id=com.imtak.wall_baduk_app)
 - **[WriteNow](https://github.com/AcademicFestival/.github/blob/main/profile/README.md)** — Collected document samples and personally built input/output training pairs, then fine-tuned GPT through the OpenAI API to obtain the structured fields needed for document automation. Worked with teammates on API and app integration.
 
 </details>
