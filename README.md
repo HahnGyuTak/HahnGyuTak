@@ -91,7 +91,7 @@ Dart · Flutter · Firebase · Git
   <a href="https://github.com/egorthinks/git-bonsai">
     <picture>
       <source media="(prefers-reduced-motion: reduce)" srcset="./assets/bonsai/bonsai.png">
-      <img src="./assets/bonsai/bonsai-growth.gif" alt="A pixel-art bonsai generated from my GitHub contribution history" width="256">
+      <img src="./assets/bonsai/bonsai.gif" alt="A pixel-art bonsai generated from my GitHub contribution history" width="256">
     </picture>
   </a>
 </p>
