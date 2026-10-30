@@ -8,8 +8,12 @@
     "stats-dark.svg": "https://github-stats-extended.vercel.app/api?username=HahnGyuTak&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=7dd3fc&icon_color=7dd3fc&disable_animations=true&card_width=420&show_icons=true&hide_rank=true&custom_title=GitHub+Activity",
     "languages-dark.svg": "https://github-stats-extended.vercel.app/api/top-langs/?username=HahnGyuTak&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=7dd3fc&icon_color=7dd3fc&disable_animations=true&card_width=420&layout=compact&langs_count=6&custom_title=Public+Repository+Languages",
     "activity-dark.svg": "https://api.github.com/graphql (public contribution calendar)",
-    "header.svg": "Original repository-owned SVG; no external font or image dependencies",
+    "header.svg": "User-provided header.svg; supplied 2026-10-30; preserved without modifications",
     "activity-light-mobile.svg": "https://api.github.com/graphql (public contribution calendar)",
-    "activity-dark-mobile.svg": "https://api.github.com/graphql (public contribution calendar)"
+    "activity-dark-mobile.svg": "https://api.github.com/graphql (public contribution calendar)",
+    "skills-ai-light.svg": "https://skillicons.dev/icons?i=py,pytorch,opencv&theme=light&perline=4",
+    "skills-ai-dark.svg": "https://skillicons.dev/icons?i=py,pytorch,opencv&theme=dark&perline=4",
+    "skills-app-light.svg": "https://skillicons.dev/icons?i=dart,flutter,firebase,git&theme=light&perline=4",
+    "skills-app-dark.svg": "https://skillicons.dev/icons?i=dart,flutter,firebase,git&theme=dark&perline=4"
   }
 }

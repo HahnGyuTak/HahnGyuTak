@@ -1,0 +1,57 @@
+name: Refresh profile decorations
+on:
+  schedule:
+    - cron: '43 1 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/profile-decorations.yml
+      - scripts/update_decorations.py
+permissions:
+  contents: write
+concurrency:
+  group: profile-assets
+  cancel-in-progress: false
+jobs:
+  decorate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+      - name: Generate contribution snake
+        id: snake
+        continue-on-error: true
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: |
+            .generated/snake-light.svg?color_snake=#1d4ed8
+            .generated/snake-dark.svg?palette=github-dark&color_snake=#7dd3fc
+      - name: Grow contribution bonsai
+        id: bonsai
+        continue-on-error: true
+        uses: egorthinks/git-bonsai@665258cab3f304cfb33a96fc7bf108cec1f452f3 # v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          user: ${{ github.repository_owner }}
+          output-dir: .generated/bonsai
+          commit: 'false'
+      - name: Validate and keep last-good assets
+        run: >-
+          python scripts/update_decorations.py
+          --snake-status '${{ steps.snake.outcome }}'
+          --bonsai-status '${{ steps.bonsai.outcome }}'
+      - name: Commit refreshed decorations
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- assets/
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m 'Refresh contribution snake and bonsai'
+          git push

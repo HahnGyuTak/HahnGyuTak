@@ -37,17 +37,21 @@ I designed and implemented a method that uses layer-wise visual evidence to stee
 
 **AI & Data**
 
-![Python](https://img.shields.io/badge/Python-16324F?style=flat-square&logo=python&logoColor=3776AB)
-![PyTorch](https://img.shields.io/badge/PyTorch-16324F?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-16324F?style=flat-square&logo=huggingface&logoColor=FFD21E)
-![OpenCV](https://img.shields.io/badge/OpenCV-16324F?style=flat-square&logo=opencv&logoColor=5C3EE8)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/skills-ai-dark.svg">
+  <img src="./assets/skills-ai-light.svg" alt="Python, PyTorch and OpenCV" width="165">
+</picture>
+
+Python · PyTorch · OpenCV · Hugging Face
 
 **App & Tools**
 
-![Dart](https://img.shields.io/badge/Dart-16324F?style=flat-square&logo=dart&logoColor=0175C2)
-![Flutter](https://img.shields.io/badge/Flutter-16324F?style=flat-square&logo=flutter&logoColor=54C5F8)
-![Firebase](https://img.shields.io/badge/Firebase-16324F?style=flat-square&logo=firebase&logoColor=FFCA28)
-![Git](https://img.shields.io/badge/Git-16324F?style=flat-square&logo=git&logoColor=F05032)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/skills-app-dark.svg">
+  <img src="./assets/skills-app-light.svg" alt="Dart, Flutter, Firebase and Git" width="220">
+</picture>
+
+Dart · Flutter · Firebase · Git
 
 ## GitHub Activity
 
