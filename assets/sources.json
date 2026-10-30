@@ -1,0 +1,15 @@
+{
+  "updated": "2026-10-30",
+  "scope": "public repository cards and contribution calendar",
+  "sources": {
+    "stats-light.svg": "https://github-stats-extended.vercel.app/api?username=HahnGyuTak&hide_border=true&bg_color=ffffff&text_color=334155&title_color=1d4ed8&icon_color=1d4ed8&disable_animations=true&card_width=420&show_icons=true&hide_rank=true&custom_title=GitHub+Activity",
+    "languages-light.svg": "https://github-stats-extended.vercel.app/api/top-langs/?username=HahnGyuTak&hide_border=true&bg_color=ffffff&text_color=334155&title_color=1d4ed8&icon_color=1d4ed8&disable_animations=true&card_width=420&layout=compact&langs_count=6&custom_title=Public+Repository+Languages",
+    "activity-light.svg": "https://api.github.com/graphql (public contribution calendar)",
+    "stats-dark.svg": "https://github-stats-extended.vercel.app/api?username=HahnGyuTak&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=7dd3fc&icon_color=7dd3fc&disable_animations=true&card_width=420&show_icons=true&hide_rank=true&custom_title=GitHub+Activity",
+    "languages-dark.svg": "https://github-stats-extended.vercel.app/api/top-langs/?username=HahnGyuTak&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=7dd3fc&icon_color=7dd3fc&disable_animations=true&card_width=420&layout=compact&langs_count=6&custom_title=Public+Repository+Languages",
+    "activity-dark.svg": "https://api.github.com/graphql (public contribution calendar)",
+    "header.svg": "Original repository-owned SVG; no external font or image dependencies",
+    "activity-light-mobile.svg": "https://api.github.com/graphql (public contribution calendar)",
+    "activity-dark-mobile.svg": "https://api.github.com/graphql (public contribution calendar)"
+  }
+}
