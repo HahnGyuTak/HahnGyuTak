@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Gyutak Hahn — AI Researcher and Developer" width="100%">
+  <img src="./assets/header.svg?v=534d579a49e5" alt="Gyutak Hahn — AI Researcher and Developer" width="100%">
 </p>
 
 # Gyutak Hahn
