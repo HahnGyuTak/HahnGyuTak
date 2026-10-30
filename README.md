@@ -67,13 +67,38 @@ Dart · Flutter · Firebase · Git
 </p>
 
 <picture>
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/activity-dark-mobile.svg">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/activity-light-mobile.svg">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/activity-dark.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/activity-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/snake-dark.svg">
+  <img src="./assets/snake-light.svg" alt="Snake animation of my GitHub contribution grid; a static activity chart is shown when reduced motion is enabled" width="100%">
+</picture>
+
+<sub>Cards are periodically refreshed snapshots. Language shares describe repository code volume, not skill levels or time spent.</sub>
+
+<details>
+<summary>Contribution details</summary>
+
+<picture>
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/activity-dark-mobile.svg">
   <source media="(max-width: 600px)" srcset="./assets/activity-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-dark.svg">
   <img src="./assets/activity-light.svg" alt="My daily GitHub contributions over the last 31 days; the date range and update date appear on the graph" width="100%">
 </picture>
 
-<sub>Cards are periodically refreshed snapshots. Language shares describe repository code volume, not skill levels or time spent.</sub>
+<p align="center">
+  <a href="https://github.com/egorthinks/git-bonsai">
+    <picture>
+      <source media="(prefers-reduced-motion: reduce)" srcset="./assets/bonsai/bonsai.png">
+      <img src="./assets/bonsai/bonsai-growth.gif" alt="A pixel-art bonsai generated from my GitHub contribution history" width="256">
+    </picture>
+  </a>
+</p>
+
+<sub>Contribution art: <a href="https://github.com/Platane/snk">snk</a> · <a href="https://github.com/egorthinks/git-bonsai">git-bonsai</a>. Skill icons: <a href="https://github.com/tandpfun/skill-icons">Skill Icons</a>.</sub>
+
+</details>
 
 <details>
 <summary>More product experience</summary>
