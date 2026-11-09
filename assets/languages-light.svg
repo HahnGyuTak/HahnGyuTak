@@ -138,7 +138,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="306.34"
+          width="306.35"
           height="8"
           fill="#DA5B0B"
         />
@@ -146,7 +146,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="306.34"
+          x="306.35"
           y="0"
           width="32.24"
           height="8"
@@ -156,7 +156,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="338.58"
+          x="338.59000000000003"
           y="0"
           width="11.6"
           height="8"
@@ -166,9 +166,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="350.18"
+          x="350.19000000000005"
           y="0"
-          width="18.880000000000003"
+          width="18.86"
           height="8"
           fill="#e34c26"
         />
@@ -176,7 +176,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="359.06"
+          x="359.05000000000007"
           y="0"
           width="16.240000000000002"
           height="8"
@@ -186,9 +186,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="365.3"
+          x="365.2900000000001"
           y="0"
-          width="14.690000000000001"
+          width="14.7"
           height="8"
           fill="#3178c6"
         />
@@ -199,7 +199,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#DA5B0B" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Jupyter Notebook 82.79%
+        Jupyter Notebook 82.80%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
@@ -220,7 +220,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 2.40%
+        HTML 2.39%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
